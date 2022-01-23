@@ -1,8 +1,8 @@
 ---
 layout: page
-title: about/contact
-permalink: /about/
+title: contact
+permalink: /contact/
 ---
 
-don't take it seriously
-if you want to contact me, dm me at twitter.com/arghjun
+<p>shoot me a dm <br>
+ twitter.com/arghjun </p>
